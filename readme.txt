@@ -1,0 +1,1 @@
+This is a password generator and retriever with a Tkinter graphical user interface (GUI). The passwords are stored locally in a json file
